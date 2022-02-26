@@ -1,36 +1,14 @@
-<!--<?xml version="1.0" encoding="utf-8"?>-->
-<!--<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
-<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
-<!--    xmlns:tools="http://schemas.android.com/tools"-->
-<!--    android:layout_width="match_parent"-->
-<!--    android:layout_height="match_parent"-->
-<!--    android:background="#000"-->
-<!--    tools:context=".Second">-->
-
-<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
-<RelativeLayout
-
-    xmlns:android="http://schemas.android.com/apk/res/android"
-
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-
-    android:id="@+id/activity_second"
-
     android:layout_width="match_parent"
-
     android:layout_height="match_parent"
-
     android:background="#000"
-    tools:context=".Second">
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.nhuy.chuyenactivity.Second">
 
-<!--    android:paddingBottom="@dimen/activity_vertical_margin"-->
-
-<!--    android:paddingLeft="@dimen/activity_horizontal_margin"-->
-
-<!--    android:paddingRight="@dimen/activity_horizontal_margin"-->
-
-<!--    android:paddingTop="@dimen/activity_vertical_margin"-->
-
-<!--    tools:context="com.howkteam.helloworld.SecondActivity">-->
-
-</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

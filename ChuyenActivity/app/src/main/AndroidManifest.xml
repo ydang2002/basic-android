@@ -27,8 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<!--        <acctivity> android:name= ".second"></acctivity>-->
-        <service android: name=".serviceExample"/>
+
     </application>
 
 </manifest>

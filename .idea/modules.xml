@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidStudio.iml" filepath="$PROJECT_DIR$/.idea/AndroidStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ActivityLifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/ActivityLifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ActivityLifecycle.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ActivityLifecycle.app.iml" />
     </modules>
   </component>
 </project>
